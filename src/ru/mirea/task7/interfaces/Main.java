@@ -1,4 +1,4 @@
-package ru.mirea.task7.interface;
+package ru.mirea.task7.interfaces;
 import java.lang.*;
 
 public class Main {
