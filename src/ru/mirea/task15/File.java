@@ -23,7 +23,7 @@ public class File {
         }
 
         //вывод из файла
-        try(FileReader reader = new FileReader("./src/ru/mirea/task15/test1.txt"))
+        try(FileReader reader = new FileReader("./src/ru/mirea/task15/FileOut.txt"))
         {
             // читаем посимвольно
             int c;
