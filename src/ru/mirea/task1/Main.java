@@ -3,7 +3,7 @@ package ru.mirea.task1;
 import java.util.*;
 import java.util.Scanner;
 
-public class LabTest {
+public class Main {
     public static void bubbleSort(int[] array) {
         boolean sorted = false;
         int temp;
