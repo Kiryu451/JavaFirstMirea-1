@@ -4,10 +4,10 @@ import java.util.LinkedList;
 
 public class LinkedListHihi {
     public static void main(String[] args) {
-        String str1 = new String("Pink!");
-        String str2 = new String("You're Gonna Go Far Kid");
-        String str3 = new String("Riot");
-        String str4 = new String("Sleepwalking");
+        String str1 = new String("Oh");
+        String str2 = new String("the misery");
+        String str3 = new String("Everybody wants to be");
+        String str4 = new String("my enemy");
 
         //инициализация
         LinkedList<String> songs = new LinkedList<>();
